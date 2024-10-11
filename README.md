@@ -25,7 +25,7 @@ Com base no valor de XP fornecido, o programa determina o nível do herói de ac
 
 Aqui está um exemplo de interação com o programa:
 
-```bash
+```
 Digite o nome do Herói: Thor
 Digite a quantidade de XP ganho: 7500
 O herói **Thor** está no nível **Platina**
@@ -42,8 +42,7 @@ Como Executar
 
     Execute o programa com o comando:
 
-```bash
-
+```
 python nome_do_arquivo.py
 ```
 
